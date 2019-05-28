@@ -531,3 +531,28 @@
   width:95px;
   white-space:nowrap;
 }
+#u399_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:207px;
+  height:181px;
+}
+#u399 {
+  border-width:0px;
+  position:absolute;
+  left:86px;
+  top:187px;
+  width:207px;
+  height:181px;
+}
+#u400 {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:82px;
+  width:203px;
+  visibility:hidden;
+  word-wrap:break-word;
+}

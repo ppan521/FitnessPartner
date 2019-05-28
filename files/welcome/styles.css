@@ -12,15 +12,7 @@
   position:absolute;
   z-index:0;
 }
-#u0 {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  height:0px;
-}
-#u1_div {
+#u0_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -35,7 +27,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u1 {
+#u0 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -43,7 +35,7 @@
   width:357px;
   height:653px;
 }
-#u2 {
+#u1 {
   border-width:0px;
   position:absolute;
   left:2px;
@@ -51,6 +43,14 @@
   width:353px;
   visibility:hidden;
   word-wrap:break-word;
+}
+#u2 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  height:0px;
 }
 #u3_img {
   border-width:0px;
@@ -144,7 +144,36 @@
   width:1px;
   height:1px;
 }
-#u8_div {
+#u8_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:189px;
+  height:189px;
+}
+#u8 {
+  border-width:0px;
+  position:absolute;
+  left:55px;
+  top:49px;
+  width:189px;
+  height:189px;
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:65px;
+  color:#FFFFFF;
+}
+#u9 {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:57px;
+  width:185px;
+  word-wrap:break-word;
+}
+#u10_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -164,7 +193,7 @@
   font-size:20px;
   text-align:center;
 }
-#u8 {
+#u10 {
   border-width:0px;
   position:absolute;
   left:-28px;
@@ -177,40 +206,11 @@
   font-size:20px;
   text-align:center;
 }
-#u9 {
+#u11 {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
   width:354px;
-  word-wrap:break-word;
-}
-#u10_img {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:189px;
-  height:189px;
-}
-#u10 {
-  border-width:0px;
-  position:absolute;
-  left:55px;
-  top:49px;
-  width:189px;
-  height:189px;
-  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
-  font-weight:700;
-  font-style:normal;
-  font-size:70px;
-  color:#FFFFFF;
-}
-#u11 {
-  border-width:0px;
-  position:absolute;
-  left:2px;
-  top:54px;
-  width:185px;
   word-wrap:break-word;
 }
